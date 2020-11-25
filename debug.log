@@ -193,3 +193,7 @@
 [0814/214519.777:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
 [0814/214519.778:ERROR:exception_snapshot_win.cc(98)] thread ID 236 not found in process
 [0814/214519.778:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Sona ermekte olan bir iþleme eriþmeye çalýþýldý. (0xc000010a)
+[1125/223900.867:ERROR:directory_reader_win.cc(43)] FindFirstFile: Sistem belirtilen yolu bulamýyor. (0x3)
+[1125/230054.797:ERROR:directory_reader_win.cc(43)] FindFirstFile: Sistem belirtilen yolu bulamýyor. (0x3)
+[1125/234157.702:ERROR:directory_reader_win.cc(43)] FindFirstFile: Sistem belirtilen yolu bulamýyor. (0x3)
+[1126/000325.985:ERROR:directory_reader_win.cc(43)] FindFirstFile: Sistem belirtilen yolu bulamýyor. (0x3)
